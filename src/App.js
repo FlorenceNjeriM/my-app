@@ -3,9 +3,13 @@ import './App.css';
 
 function App() {
   return (
-    <h1 className="App">
+   
+    <div className="App">
+       <h1 >
     Weather App
-    </h1>
+    </h1> 
+    </div>
+   
   );
 }
 
