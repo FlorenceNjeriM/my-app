@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-    Hello React
-    </div>
+    <h1 className="App">
+    Weather App
+    </h1>
   );
 }
 
